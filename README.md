@@ -10,9 +10,10 @@ Stylish Quicksand font and gradient background for aesthetics.
 Lightweight solution using HTML, CSS, and JavaScript.
 
 **Usage:**
-1. Clone the repository: `git clone https://github.com/iamNithiiN/Alarm-Clock.git`
-2. Open `index.html` in a web browser to use the Alarm Clock.
-3. Set alarms, enjoy the audio alert, and manage them effortlessly.
+1. Clone the repository: `https://github.com/yash1370/alarm-clock`
+2. Hosted Link: `https://yash1370.github.io/alarm-clock/`
+3. Open `index.html` in a web browser to use the Alarm Clock.
+4. Set alarms, enjoy the audio alert, and manage them effortlessly.
 
 **Contributing:**
 - Contributions are encouraged! Fork the repository, make enhancements, and submit pull requests.
